@@ -4,4 +4,7 @@ A command line tool that allows users to add, edit, and view important events on
 
 ## Usage
 
+## Usage
+
+Run ```ruby main.rb``` in the terminal.
 - Ruby version: `3.2.1`
