@@ -1,5 +1,7 @@
-# ruby-cli-template
+# Event-Planner
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+A command line tool that allows users to add, edit, and view important events on a calendar.
+
+## Usage
 
 - Ruby version: `3.2.1`
