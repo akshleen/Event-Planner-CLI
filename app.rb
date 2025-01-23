@@ -34,7 +34,7 @@ class EventPlanner
   def add_event
     print "Enter event name: "
     name = gets.chomp
-    print "Enter event date (YYYY-MM-DD): "
+    print "Enter date of the Event (YYYY-MM-DD): "
     date = gets.chomp
     print "Enter event description: "
     description = gets.chomp
