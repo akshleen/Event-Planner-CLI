@@ -9,10 +9,10 @@ class EventPlanner
   def menu
     loop do
       puts "\nEvent Planner"
-      puts "1. Add Event"
-      puts "2. View Events"
-      puts "3. Edit Event"
-      puts "4. Exit"
+      puts "Type 1 Add Event"
+      puts "Type 2 View Events"
+      puts "Type 3 Edit Event"
+      puts "Type 4 Exit"
       print "Choose an option: "
       choice = gets.chomp.to_i
 
