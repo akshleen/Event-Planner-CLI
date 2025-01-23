@@ -26,7 +26,7 @@ class EventPlanner
       when 4
         exit
       else
-        puts "Invalid choice. Try again."
+        puts "input dose not exist. Try again."
       end
     end
   end
